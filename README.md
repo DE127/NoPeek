@@ -12,9 +12,9 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8">
 
-  `<img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8">`
+  `<img alt="Github language count" src="https://img.shields.io/github/languages/count/de127/nopeek?color=56BEB8">`
 
-  `<img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8">`
+  `<img alt="Repository size" src="https://img.shields.io/github/repo-size/de127/nopeek?color=56BEB8">`
 
 <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8">
 
@@ -36,12 +36,10 @@
 
 <p align="center">
   <a href="#dart-about">About</a>   |   
-  <a href="#sparkles-features">Features</a>   |  
-  <a href="#rocket-technologies">Technologies</a>   |  
-  <a href="#white_check_mark-requirements">Requirements</a>   |  
+  <a href="#sparkles-features">Features</a>   | 
   <a href="#checkered_flag-starting">Starting</a>   |  
   <a href="#memo-license">License</a>   |  
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/de127" target="_blank">DE127</a>
 </p>
 
 <br>
@@ -52,9 +50,17 @@ Describe your project
 
 ## ✨ Features
 
-✔️ Feature 1;
-✔️ Feature 2;
-✔️ Feature 3;
+✔️ Full text and image protection;
+✔️ All major browsers supported Chrome, Firefox, Safari, Edge, Opera;
+✔️ Works both for the entire Website and for Single Pages;
+✔️ 100% SEO Friendly;
+✔️ Native Valid JavaScript, without jQuery;
+✔️ Works well on Windows, Linux, and macOS;
+✔️ Lightweight and Fast;
+✔️ Compatible with all Modern Browsers;
+✔️ Easy to use and customize;
+✔️ Awesome for Mobile and Tablets;
+✔️ Huge Customization Capabilities;
 
 ## 🏁 Starting
 
