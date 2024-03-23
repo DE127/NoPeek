@@ -68,9 +68,10 @@ $ git clone https://github.com/de127/nopeek
 ## 📝 License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-Made with ❤️ by `<a href="https://github.com/de127" target="_blank">`DE127 `</a>`
-
+<p>
+Made with ❤️ by <a href="https://github.com/de127" target="_blank">DE127 </a>
+</p>
 &#xa0;
-
-`<a href="#top">`Back to top `</a>`
+<p>
+<a href="#top">`Back to top </a>
+</p>
