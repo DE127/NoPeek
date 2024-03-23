@@ -10,13 +10,7 @@
 <h1 align="center">NoPeek</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8">
-
-  `<img alt="Github language count" src="https://img.shields.io/github/languages/count/de127/nopeek?color=56BEB8">`
-
-  `<img alt="Repository size" src="https://img.shields.io/github/repo-size/de127/nopeek?color=56BEB8">`
-
-<img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/de127/nopeek?color=56BEB8"><img alt="Repository size" src="https://img.shields.io/github/repo-size/de127/nopeek?color=56BEB8"><img alt="License" src="https://img.shields.io/github/license/de127/nopeek?color=56BEB8">
 
 <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/nopeek?color=56BEB8" /> -->
 
@@ -46,7 +40,7 @@
 
 ## 🎯 About
 
-Describe your project
+NoPeek is a tool designed to safeguard all content on your website from being copied. The straightforward JavaScript code completely prevents all existing content copying methods, including right-click menus, hotkeys, developer tools, text selection and dragging, and more.
 
 ## ✨ Features
 
