@@ -32,7 +32,7 @@
   <a href="#dart-about">About</a>   |   
   <a href="#sparkles-features">Features</a>   | 
   <a href="#checkered_flag-starting">Starting</a>   |  
-  <a href="#memo-license">License</a>   |  
+  <a href="https://github.com/DE127/NoPeek/blob/main/LICENSE">License</a>   |  
   <a href="https://github.com/de127" target="_blank">DE127</a>
 </p>
 
@@ -67,11 +67,12 @@ $ git clone https://github.com/de127/nopeek
 
 ## 📝 License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
+
 <p>
 Made with ❤️ by <a href="https://github.com/de127" target="_blank">DE127 </a>
 </p>
-&#xa0;
+ 
 <p>
 <a href="#top">`Back to top </a>
 </p>
