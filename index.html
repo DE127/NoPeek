@@ -1,12 +1,291 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NoPeek</title>
+    <title>NoPeek - Protect Your Content</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+
+        .cta-button:hover {
+            background-color: #0056b3;
+        }
+
+        .green {
+            background-color: #28a745;
+        }
+
+        .red {
+            background-color: #dc3545;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        h2 {
+            font-size: 3em;
+            text-align: left;
+            margin: 20px 10%;
+            padding: 1.5% 0;
+        }
+
+        .feature-list {
+            list-style: none;
+            padding: 20px;
+            text-align: left;
+            margin-top: 30px;
+        }
+
+        .feature-list li::before {
+            content: "\2022";
+            color: #007bff;
+            font-weight: bold;
+            display: inline-block;
+            width: 1em;
+            margin-left: -1em;
+        }
+
+        .feature-list li {
+            margin: 10px 10%;
+        }
+
+        .about {
+            text-align: left;
+            font-size: 1.2em;
+            margin: 0 10%;
+        }
+
+        .about2 {
+            text-align: left;
+            font-size: 1.2em;
+            margin: 0 10%;
+        }
+
+        .highlight {
+            background-color: #ffcc00;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 0px;
+        }
+
+        h4 {
+            font-size: 1.2em;
+            font-weight: normal;
+            text-decoration: wavy;
+        }
+        .note {
+            background-color: #ffcc00;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 30%;
+            text-align: left;
+            margin: 20px 20px;
+            position: fixed;
+            top: 10%;
+            right: 10px;
+        }
+        .note::before {
+            content: "\201C";
+            font-size: 10em;
+            color: #ffffff;
+            position: absolute;
+            top: -20px;
+            left: 10px;
+        }
+        .de127 {
+            color: #bacbff;
+            text-decoration: none;
+        }
+
+        @media (max-width: 768px) {
+            h2 {
+                font-size: 2em;
+                text-align: left;
+                margin: 20px 10%;
+                padding: 1.5% 0;
+            }
+
+            .feature-list {
+                list-style: none;
+                padding: 20px;
+                text-align: left;
+                margin-top: 30px;
+            }
+
+            .feature-list li::before {
+                content: "\2022";
+                color: #007bff;
+                font-weight: bold;
+                display: inline-block;
+                width: 1em;
+                margin-left: -1em;
+            }
+
+            .feature-list li {
+                margin: 10px 10%;
+            }
+
+            .about {
+                text-align: left;
+                font-size: 1.2em;
+                margin: 0 10%;
+            }
+
+            .about2 {
+                text-align: left;
+                font-size: 1.2em;
+                margin: 0 10%;
+            }
+
+            .highlight {
+                background-color: #ffcc00;
+                padding: 10px;
+                border-radius: 5px;
+                margin-bottom: 0px;
+            }
+
+            h4 {
+                font-size: 1.2em;
+                font-weight: normal;
+                text-decoration: wavy;
+            }
+            .note {
+                background-color: #ffcc00;
+                padding: 10px;
+                border-radius: 10px;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                max-width: 90%;
+                text-align: left;
+                margin: 20px 20px;
+                position: fixed;
+                top: 70%;
+                right: 10px;
+            }
+            .note::before {
+                content: "\201C";
+                font-size: 10em;
+                color: #ffffff;
+                position: absolute;
+                top: -20px;
+                left: 10px;
+            }
+        }
+
+    </style>
 </head>
+
 <body>
-    <H1>NoPeek</H1>
-    <p> NoPeek is a simple and secure way to share sensitive information. </p>
+    <header>
+        <h1>NoPeek - Protect Your Content</h1>
+    </header>
+
+    <main>
+        <h2>Key Features</h2>
+        <ul class="feature-list">
+            <li>Full text and image protection</li>
+            <li>All major browsers supported: Chrome, Firefox, Safari, Edge, Opera</li>
+            <li>Works both for the entire website and for single pages</li>
+            <li>100% SEO friendly</li>
+            <li>Native valid JavaScript, without jQuery</li>
+            <li>Works well on Windows, Linux, and macOS</li>
+            <li>Lightweight and fast</li>
+            <li>Compatible with all modern browsers</li>
+            <li>Easy to use and customize</li>
+            <li>Awesome for mobile and tablets</li>
+            <li>Huge customization capabilities</li>
+        </ul>
+
+
+        <a href="https://github.com/DE127/NoPeek/blob/main/LICENSE" class="cta-button red">License MIT</a>
+        <a href="https://github.com/de127/nopeek" class="cta-button">Get Started</a>
+        <a href="https://github.com/de127/" class="cta-button green">by DE127</a>
+    </main>
+    <div class="note">
+    <div class="highlight">
+        <h4>NoPeek employs a straightforward JavaScript code that completely prevents all existing content copying methods, including right-click menus, hotkeys, developer tools, text selection and dragging, and more.</h4>
+    </div>
+</div>
+    <footer>
+
+        <p>&copy; 2024 <a href="https://github.com/de127/" class="de127">DE127</a>. All rights reserved.</p>
+    </footer>
+    <noscript>
+        <div id="nopeek-js-disabled">
+            <div>
+                <h3>Please Enable JavaScript in your Browser to Visit this Site.</h3>
+            </div>
+        </div>
+        <style>
+            #nopeek-js-disabled {
+                position: fixed;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                z-index: 999999;
+                text-align: center;
+                background-color: #FFFFFF;
+                color: #000000;
+                font-size: 40px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        </style>
+    </noscript>
+    <script type="text/javascript" src="/js/hotkeys.min.js"></script>
+    <script type="text/javascript" src="/js/devtools-detect.js"></script>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var mdpNoPeek = { "selectAll": "on", "copy": "on", "cut": "on", "paste": "on", "save": "on", "viewSource": "on", "printPage": "on", "developerTool": "on", "windowBlur": "on", "tabHidden": "on", "readerMode": "on", "rightClick": "on", "rightClickImage": "on", "textSelection": "on", "imageDragging": "on" };
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="/js/NoPeek.js"></script>
+    <script>
+        /** console.log Clear */
+        console.clear();
+    </script>
 </body>
+
 </html>
