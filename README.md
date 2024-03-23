@@ -1,9 +1,7 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="NoPeek" />
+  <img src="logo.png" alt="NoPeek" height="60px"/>
 
   &#xa0;
-
-<!-- <a href="https://nopeek.netlify.app">Demo</a> -->
 
 </div>
 
@@ -66,38 +64,36 @@ $ git clone https://github.com/de127/nopeek
 ## 🚀 Quick Start
 
 1. **Download NoPeek:** Download NoPeek from the [Github repository](https://github.com/de127/nopeek).
-
 2. **Include NoPeek Files:** Copy NoPeek's JS files into your project directory.
 
-    ```html
-    <script type="text/javascript" src="/path/to/hotkeys.min.js"></script>
-    <script type="text/javascript" src="/path/to/devtools-detect.js"></script>
-    <script type="text/javascript" src="/path/to/NoPeek.js"></script>
-    ```
-
+   ```html
+   <script type="text/javascript" src="/path/to/hotkeys.min.js"></script>
+   <script type="text/javascript" src="/path/to/devtools-detect.js"></script>
+   <script type="text/javascript" src="/path/to/NoPeek.js"></script>
+   ```
 3. **Enable NoPeek:** Insert the following code into your website to start using NoPeek.
 
-    ```html
-    <script>
-        var mdpNoPeek = { 
-            "selectAll": "on", 
-            "copy": "on", 
-            "cut": "on", 
-            "paste": "on", 
-            "save": "on", 
-            "viewSource": "on", 
-            "printPage": "on", 
-            "developerTool": "on", 
-            "windowBlur": "on", 
-            "tabHidden": "on", 
-            "readerMode": "on", 
-            "rightClick": "on", 
-            "rightClickImage": "on", 
-            "textSelection": "on", 
-            "imageDragging": "on" 
-        };
-    </script>
-    ```
+   ```html
+   <script>
+       var mdpNoPeek = { 
+           "selectAll": "on", 
+           "copy": "on", 
+           "cut": "on", 
+           "paste": "on", 
+           "save": "on", 
+           "viewSource": "on", 
+           "printPage": "on", 
+           "developerTool": "on", 
+           "windowBlur": "on", 
+           "tabHidden": "on", 
+           "readerMode": "on", 
+           "rightClick": "on", 
+           "rightClickImage": "on", 
+           "textSelection": "on", 
+           "imageDragging": "on" 
+       };
+   </script>
+   ```
 
 ## 🛠️ Configuration
 
@@ -155,6 +151,7 @@ Below is an example of how to use NoPeek in a webpage:
 ## 🎉 Congratulations!
 
 You have successfully integrated and configured NoPeek for your website. Now, the content on your website will be protected from unauthorized copying or grabbing.
+
 ## 📝 License
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
